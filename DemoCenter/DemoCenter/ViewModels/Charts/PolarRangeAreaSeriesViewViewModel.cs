@@ -1,6 +1,7 @@
 ﻿using Avalonia.Media;
 using CommunityToolkit.Mvvm.ComponentModel;
 using Eremex.AvaloniaUI.Charts;
+using System;
 
 namespace DemoCenter.ViewModels;
 

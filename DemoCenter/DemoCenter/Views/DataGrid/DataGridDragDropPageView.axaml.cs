@@ -4,6 +4,8 @@ using Avalonia.Media;
 using DemoCenter.DemoData.CsvClasses;
 using Eremex.AvaloniaUI.Controls.DataControl;
 using Eremex.AvaloniaUI.Controls.DataGrid;
+using System;
+using System.Collections.Generic;
 using System.Globalization;
 
 namespace DemoCenter.Views

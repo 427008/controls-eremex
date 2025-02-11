@@ -5,6 +5,8 @@ using DemoCenter.DemoData;
 using DemoCenter.ViewModels;
 using Eremex.AvaloniaUI.Controls.DataGrid;
 using Eremex.AvaloniaUI.Controls.Editors;
+using System;
+using System.Collections.Generic;
 
 namespace DemoCenter.Views
 {

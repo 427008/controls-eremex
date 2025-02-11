@@ -11,6 +11,8 @@ using AvaloniaEdit;
 using AvaloniaEdit.Highlighting;
 using DemoCenter.Helpers;
 using DynamicData;
+using System.Collections.Generic;
+using System;
 
 namespace DemoCenter.Views
 {

@@ -1,4 +1,6 @@
-﻿namespace DemoCenter.DemoData;
+﻿using System;
+
+namespace DemoCenter.DemoData;
 
 public class StockInfo
 {

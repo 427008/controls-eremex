@@ -1,6 +1,8 @@
 using Avalonia.Controls;
 using Avalonia.VisualTree;
 using DemoCenter.ViewModels;
+using System;
+using System.Linq;
 
 namespace DemoCenter.Views
 {

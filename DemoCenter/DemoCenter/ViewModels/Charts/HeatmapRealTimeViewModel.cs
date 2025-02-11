@@ -1,6 +1,8 @@
 ﻿using Avalonia.Threading;
 using CommunityToolkit.Mvvm.ComponentModel;
 using Eremex.AvaloniaUI.Charts;
+using System;
+using System.Collections.Generic;
 
 namespace DemoCenter.ViewModels;
 

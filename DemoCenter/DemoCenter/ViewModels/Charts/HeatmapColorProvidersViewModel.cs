@@ -6,6 +6,7 @@ using CommunityToolkit.Mvvm.ComponentModel;
 using DemoCenter.Helpers;
 using Eremex.AvaloniaUI.Charts;
 using Eremex.AvaloniaUI.Charts.Native;
+using System.Collections.Generic;
 
 namespace DemoCenter.ViewModels;
 

@@ -6,6 +6,7 @@ using Avalonia.Data.Converters;
 using Avalonia.Interactivity;
 using Avalonia.Media;
 using DemoCenter.ViewModels;
+using System;
 using System.Globalization;
 
 namespace DemoCenter.Views

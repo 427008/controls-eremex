@@ -1,5 +1,6 @@
 ﻿using Avalonia;
 using Eremex.AvaloniaUI.Charts;
+using System.Collections.Generic;
 
 namespace DemoCenter.ViewModels.DataAdapters;
 

@@ -6,6 +6,7 @@ using Avalonia.Interactivity;
 using Avalonia.Markup.Xaml;
 using Avalonia.Media;
 using System;
+using System.Collections.Generic;
 using System.Data.Common;
 using System.Globalization;
 using System.Windows.Input;

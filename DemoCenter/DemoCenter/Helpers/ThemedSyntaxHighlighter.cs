@@ -1,4 +1,5 @@
-﻿using System.Reflection;
+﻿using System;
+using System.Reflection;
 using System.Xml;
 using Avalonia.Markup.Xaml;
 using AvaloniaEdit.Highlighting;

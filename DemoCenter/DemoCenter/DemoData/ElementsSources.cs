@@ -1,5 +1,6 @@
 ﻿using Avalonia.Media;
 using DemoCenter.Helpers;
+using System.Collections.Generic;
 using static System.Net.Mime.MediaTypeNames;
 
 namespace DemoCenter.DemoData

@@ -1,4 +1,7 @@
 ﻿using Eremex.AvaloniaUI.Charts;
+using System;
+using System.Collections.Generic;
+using System.Threading;
 
 namespace DemoCenter.ViewModels.DataAdapters;
 

@@ -1,7 +1,9 @@
 ﻿using CommunityToolkit.Mvvm.ComponentModel;
 using DemoCenter.DemoData;
 using DemoCenter.DemoData.CsvClasses;
+using System.Collections.Generic;
 using System.Collections.ObjectModel;
+using System.Linq;
 
 namespace DemoCenter.ViewModels
 {

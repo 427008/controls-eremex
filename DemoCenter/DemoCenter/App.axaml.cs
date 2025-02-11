@@ -8,6 +8,7 @@ using DemoCenter.ViewModels;
 using DemoCenter.Views;
 using DemoCenter.ProductsData;
 using Eremex.AvaloniaUI.Controls.Common;
+using System.Threading;
 
 namespace DemoCenter;
 

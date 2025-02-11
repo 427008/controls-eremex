@@ -1,4 +1,5 @@
-﻿using System.Numerics;
+﻿using System.Collections.Generic;
+using System.Numerics;
 using Avalonia.Media;
 using CommunityToolkit.Mvvm.ComponentModel;
 using Eremex.AvaloniaUI.Controls3D;

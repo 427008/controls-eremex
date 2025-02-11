@@ -1,6 +1,7 @@
 ﻿using Avalonia.Controls;
 using Avalonia.Input;
 using DemoCenter.ViewModels;
+using System.Linq;
 
 namespace DemoCenter.Views;
 

@@ -1,6 +1,9 @@
 ﻿using CommunityToolkit.Mvvm.ComponentModel;
 using DemoCenter.DemoData;
+using DynamicData;
 using Eremex.AvaloniaUI.Charts;
+using System;
+using System.Collections.Generic;
 
 namespace DemoCenter.ViewModels;
 
